@@ -11,3 +11,10 @@ Welcome to my GitHub page!
 - 🤓 Devote more time to things that make me happy
 
 Feel free to hit me up if there is anything you'd like to ask!
+
+<p align='center'>
+<a href="https://instagram.com/faagerholm"><img height="30" src="https://github.com/Faagerholm/Fagerholm/blob/main/icons/insagram-icon.png?raw=true"></a>&nbsp;
+<a href="https://www.buymeacoffee.com/Faagerholm"><img height="30" src="https://github.com/Faagerholm/Faagerholm/blob/main/icons/BMC-icon.png?raw=true"></a>&nbsp;
+<a href="https://www.linkedin.com/in/jimmy-fagerholm/"><img height="30" src="https://github.com/Faagerholm/Faagerholm/blob/main/icon/linkedin-icon.png?raw=true"></a>
+</p>
+

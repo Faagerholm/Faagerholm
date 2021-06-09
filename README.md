@@ -17,7 +17,7 @@ Welcome to my GitHub page!
 
 Feel free to check out my socials and hit me up if you'd like to chat!
 
-Check out my newly create Hugo portfolio website [HERE](https://faagerholm.github.io/)
+Check out my portfolio website made with Hugo [HERE](https://faagerholm.github.io/)
 
 <p align='center'>
 <a href="https://instagram.com/faagerholm"><img height="30" src="https://github.com/Faagerholm/Faagerholm/blob/main/icons/instagram-icon.png?raw=true"></a>&nbsp;

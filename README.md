@@ -3,12 +3,12 @@
 Welcome to my GitHub page!
 
 🚀 Goals of 2021 🚀
-- 🔭 Contribute to atleast 2 open-source projects
-- ⚡️  Create my first serious project
-- 📱 Create and launch an App made with dart
-- 🌱 Master the basic concepts of the most common languages, e.g. ~~Java~~, ~~JS~~, ~~Python~~, Golang, Rust, Dart
-- 👨‍🦰 Be the best version of myself 
-- 🤓 Devote more time to things that make me happy
+- [ ] 🔭 Contribute to atleast 2 open-source projects
+- [x] ⚡️  Create my first serious project
+- [ ] 📱 Create and launch an App made with dart
+- [x] 🌱 Master the basic concepts of the most common languages, e.g. ~~Java~~, ~~JS~~, ~~Python~~, ~~Golang~~, Rust, ~~Dart~~
+- [x] 👨‍🦰 Be the best version of myself 
+- [x] 🤓 Devote more time to things that make me happy
 
 ---
 

@@ -2,13 +2,12 @@
 
 Welcome to my GitHub page!
 
-🚀 Goals of 2021 🚀
-- [ ] 🔭 Contribute to atleast 2 open-source projects
-- [x] ⚡️  Create my first serious project
-- [ ] 📱 Create and launch an App made with dart
-- [x] 🌱 Master the basic concepts of the most common languages, e.g. ~~Java~~, ~~JS~~, ~~Python~~, ~~Golang~~, Rust, ~~Dart~~
-- [x] 👨‍🦰 Be the best version of myself 
-- [x] 🤓 Devote more time to things that make me happy
+👑 Goals of 2022 👑
+- [ ] 👨‍🔧 Maintain old projects
+- [ ] 🧹 Cleanup Github and make it more enjoyable
+- [ ] 🕸 A new website 
+- [ ] 🚗 Continue developing my skills with Golang, Kubernetes and Database optimization
+- [ ] 🔭 Contribute to an open-source project
 
 ---
 

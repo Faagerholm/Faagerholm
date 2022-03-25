@@ -3,11 +3,13 @@
 Welcome to my GitHub page!
 
 👑 Goals of 2022 👑
-- [ ] 👨‍🔧 Maintain old projects
 - [ ] 🧹 Cleanup Github and make it more enjoyable
 - [ ] 🕸 A new website 
 - [ ] 🚗 Continue developing my skills with Golang, Kubernetes and Database optimization
 - [ ] 🔭 Contribute to an open-source project
+
+
+ 👨‍🔧 ~Maintain old projects~
 
 ---
 

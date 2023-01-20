@@ -2,15 +2,13 @@
 
 Welcome to my GitHub page!
 
-👑 Goals of 2022 👑
-- [x] 🧹 Cleanup Github and make it more enjoyable
-- [x] 🚗 Continue developing my skills with Golang, Kubernetes and Database optimization
-- [x] 🔭 Contribute to an open-source project
-
-
- 👨‍🔧 ~Maintain old projects~
+👑 Goals of 2023 👑
+- [ ] 🦍 Make something useful, while diving deeper into concurrency i Go
+- [ ] 🏂 Enjoy life
 
 ---
+
+_At the moment I am mostly daydreaming..._
 
 
 #### Socials

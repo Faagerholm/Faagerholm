@@ -6,7 +6,7 @@ You will most likely find bugs below, please keep them in mind.
 
 Some tags match my interests as of 2024.
 
-`Go`, `HTLMX`, `Svelte`, `gRPC`, `communication protocols` and `testing`
+`Go` `HTLMX` `Svelte` `gRPC` `neovim` `communication protocols` `testing`
 
 ---
 

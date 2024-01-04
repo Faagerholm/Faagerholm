@@ -2,9 +2,11 @@
 
 Welcome to my GitHub page!
 
-👑 Goals of 2023 👑
-- [ ] 🦍 Make something useful, while diving deeper into concurrency i Go
-- [ ] 🏂 Enjoy life
+You will most likely find bugs below, please keep them in mind.
+
+Some tags match my interests as of 2024.
+
+`Go`, `HTLMX`, `Svelte`, `gRPC`, `communication protocols` and `testing`
 
 ---
 
